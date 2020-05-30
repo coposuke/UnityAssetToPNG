@@ -1,0 +1,155 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: NoteEmojiSpriteAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 1
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 4
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 79a634532eb8b7944b9536f6d3010db9, type: 3}
+    totalSpriteSurfaceArea: 819200
+    bindAsDefault: 1
+    storedHash:
+      serializedVersion: 2
+      Hash: 567425f7f3b78363e79730ee681109c7
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: b4c59c6096128fc42a7c13ee360bd171, type: 3}
+  - {fileID: 21300000, guid: 91f6f5d00ad1a314fb733b5e501c8dcc, type: 3}
+  - {fileID: 21300000, guid: 5348c2a162e76384db5479ca7f854e17, type: 3}
+  - {fileID: 21300000, guid: 21d3faa1c568dce44adc6c4e72c9038f, type: 3}
+  - {fileID: 21300000, guid: 933480b11aec76b409b553bac4dcc255, type: 3}
+  - {fileID: 21300000, guid: 2e12fc02e01e43f4f8301aaef14b8f76, type: 3}
+  - {fileID: 21300000, guid: 00c931f2354f52c43be845b7f2686422, type: 3}
+  - {fileID: 21300000, guid: 4eebb6d3296923c428c9ac3c0afa37c1, type: 3}
+  - {fileID: 21300000, guid: 16c69cf3ee78cfc45a69078972f707a0, type: 3}
+  - {fileID: 21300000, guid: 41a3fa64761f1f74f8761e558ac237ae, type: 3}
+  - {fileID: 21300000, guid: 68e391b40a05f604694fd9742464c9dc, type: 3}
+  - {fileID: 21300000, guid: 9d8431151f4a674449236bb413a73517, type: 3}
+  - {fileID: 21300000, guid: 0181c225a7f40eb4482d88f27290e2c5, type: 3}
+  - {fileID: 21300000, guid: abe42dd5ba4c2574a92b0773b92b734d, type: 3}
+  - {fileID: 21300000, guid: 889c22f5e30bde54a9a8b9375b620cc2, type: 3}
+  - {fileID: 21300000, guid: 1c3e36f59666c574381bcbe2acc23ecb, type: 3}
+  - {fileID: 21300000, guid: 78e72b46242bf7f4e8b4fe5424ee014a, type: 3}
+  - {fileID: 21300000, guid: 50fcb076a24de1d45a3132f5463cc3a1, type: 3}
+  - {fileID: 21300000, guid: 5d3231571430b3949b062e86cc79f439, type: 3}
+  - {fileID: 21300000, guid: 40f5dbc7b48e71548b3ad0983d66a3a2, type: 3}
+  - {fileID: 21300000, guid: 49d201f7ca7be5d40a2024f91d6535e6, type: 3}
+  - {fileID: 21300000, guid: bafbcf38f7240c24086d4d8ddedf37c8, type: 3}
+  - {fileID: 21300000, guid: 18e82358728828c49a3cee567f8d2205, type: 3}
+  - {fileID: 21300000, guid: 3bc9db6876e6fb144ba07a5c3e30bb62, type: 3}
+  - {fileID: 21300000, guid: a716add866f282c488e22d64bfb55ae6, type: 3}
+  - {fileID: 21300000, guid: b6bb513964a9a56468bc64f9d5087972, type: 3}
+  - {fileID: 21300000, guid: f7a9d459c5bdf754d92c1c4d341eb8bd, type: 3}
+  - {fileID: 21300000, guid: 46d50d8945b758449b005a3bfaab1656, type: 3}
+  - {fileID: 21300000, guid: 771c4599e477b0941a7185987d971641, type: 3}
+  - {fileID: 21300000, guid: 2111bae9182569e40b41734c6e02fb28, type: 3}
+  - {fileID: 21300000, guid: c172098ae6300ac4a8af9d676437f90a, type: 3}
+  - {fileID: 21300000, guid: eff90eca8ff6ce44989395e1c603e323, type: 3}
+  - {fileID: 21300000, guid: 255259ea5c2e2ef468ac87838000f4f9, type: 3}
+  - {fileID: 21300000, guid: f612f11b25727ec45a598b715ecc0421, type: 3}
+  - {fileID: 21300000, guid: 1fbbf91b4fce6c447b9be3f27ccf6879, type: 3}
+  - {fileID: 21300000, guid: 6d732e1b08af93941bef64b5f5088d95, type: 3}
+  - {fileID: 21300000, guid: 6973ba2bea42b594caf16cea23b6f49f, type: 3}
+  - {fileID: 21300000, guid: db54114b26c789045b39ddeaccf41a36, type: 3}
+  - {fileID: 21300000, guid: 8ee54a6b686361b4fbf5926b99cace5d, type: 3}
+  - {fileID: 21300000, guid: f24730fb5d2ee9e48b3689eb5bf07926, type: 3}
+  - {fileID: 21300000, guid: 6d023d4cf30df464ab288451902515cc, type: 3}
+  - {fileID: 21300000, guid: c43918ecd5f9abf44baf90c8d6dce5d4, type: 3}
+  - {fileID: 21300000, guid: 72e8443d056623d439316479cd4db9c3, type: 3}
+  - {fileID: 21300000, guid: 0774235de975b3249b790deaa718c798, type: 3}
+  - {fileID: 21300000, guid: f9183f8d786560f419021248a29d9346, type: 3}
+  - {fileID: 21300000, guid: 3efb84fdbacfe63478fce37016aaee77, type: 3}
+  - {fileID: 21300000, guid: 82edbc2e0c373eb49b1b68faa76e1b1a, type: 3}
+  - {fileID: 21300000, guid: ef703d3e9c389574eb97811fcc844508, type: 3}
+  - {fileID: 21300000, guid: 9045615e4ad0da84bb0afc46420bde5d, type: 3}
+  - {fileID: 21300000, guid: 7d05d28e26a9b0344beef55e1908343c, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - emoji_u1f5fb
+  - emoji_u1f35b
+  - emoji_u1f3b2
+  - emoji_u1f44d_1f3fb
+  - emoji_u1f631
+  - emoji_u1f628
+  - emoji_u1f3d4
+  - emoji_u1f914
+  - emoji_u1f6ab
+  - emoji_u1f60a
+  - emoji_u00a9
+  - emoji_u1f618
+  - emoji_u1f61d
+  - emoji_u1f36f
+  - emoji_u1f4a9
+  - emoji_u1f3c7
+  - emoji_u1f4aa_1f3fb
+  - emoji_u1f60f
+  - emoji_u1f4b8
+  - emoji_u1f3d6
+  - emoji_u1f96a
+  - emoji_u1f64f_1f3fb
+  - emoji_u1f37b
+  - emoji_u1f3b9
+  - emoji_u1f3ea
+  - emoji_u1f62a
+  - emoji_u1f61f
+  - emoji_u1f616
+  - emoji_u1f6a8
+  - emoji_u1f9c7
+  - emoji_u1f4f7
+  - emoji_u1f527
+  - emoji_u1f62d
+  - emoji_u1f9c1
+  - emoji_u1f621
+  - emoji_u1f3cb_200d_2642
+  - emoji_u1f62f
+  - emoji_u1f33b
+  - emoji_u1f4af
+  - emoji_u1f35c
+  - emoji_u1f35f
+  - emoji_u1f3dd
+  - emoji_u1f4a1
+  - emoji_u1f3ae
+  - emoji_u1f60e
+  - emoji_u1f61a
+  - emoji_u1f3f7
+  - emoji_u1f62b
+  - emoji_u1f192
+  - emoji_u1f60d
+  m_Tag: NoteEmojiSpriteAtlas
+  m_IsVariant: 0
