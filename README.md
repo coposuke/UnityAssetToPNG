@@ -6,8 +6,11 @@ UnityAsset は下記タイプに対応しています。
  - Sprite (整列)
  - Texture2D
 
-## ■導入方法
+![Sample1](https://github.com/coposuke/UnityAssetToPNG/blob/image/Sample01.SpriteAtlas.png)  
+![Sample2](https://github.com/coposuke/UnityAssetToPNG/blob/image/Sample02.Sprites.png)  
+![Sample3](https://github.com/coposuke/UnityAssetToPNG/blob/image/Sample03.Sprites.gif, "Spritesを整列させてParticleにしたもの")  
 
+## ■導入方法
 ### 方法１ 手動
 `Clone or Download` から `Download ZIP` を選択してダウンロードしてください。  
 解凍したら、Scriptsフォルダ を Assetsフォルダ の中に配置してください。
@@ -26,9 +29,8 @@ Packages/manifest.json に下記のように追記してください。
 追記後に Unity を起動すると自動的にインポートされます。
 
 ## ■使い方
-
-工事中
-
+Pngにしたいアセットを右クリックし、「Genarate PNG」を選択します。  
+![使い方](https://github.com/coposuke/UnityAssetToPNG/blob/image/HowToUse.png)
 
 ## ■License
 [CC0 v1.0](https://github.com/coposuke/UnityAssetToPNG/blob/master/LICENSE)
