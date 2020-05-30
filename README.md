@@ -8,7 +8,8 @@ UnityAsset は下記タイプに対応しています。
 
 ![Sample1](https://github.com/coposuke/UnityAssetToPNG/blob/image/Sample01.SpriteAtlas.png)  
 ![Sample2](https://github.com/coposuke/UnityAssetToPNG/blob/image/Sample02.Sprites.png)  
-![Sample3](https://github.com/coposuke/UnityAssetToPNG/blob/image/Sample03.Sprites.gif, "Spritesを整列させてParticleにしたもの")  
+![Sample3](https://github.com/coposuke/UnityAssetToPNG/blob/image/Sample03.Sprites.gif)  
+*Spritesを整列させてParticleにしたもの*
 
 ## ■導入方法
 ### 方法１ 手動
